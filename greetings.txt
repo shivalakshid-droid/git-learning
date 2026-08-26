@@ -1,3 +1,5 @@
 Hello GitHub
+Hello from master
+Hello from feature
 learning stash today
 
