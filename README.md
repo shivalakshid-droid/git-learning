@@ -1,8 +1,7 @@
 # Git learning
 This repository contains my Git and GitHub practice.
 ## Topics I Have Learnt
-Git basics 
--Git status, add, commit push and pull
+Git basic commands
 -Git Branches and merging
 -Merge conflicts
 -Git clone 
